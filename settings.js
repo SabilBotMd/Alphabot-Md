@@ -25,7 +25,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Siesta-Md" //namabot kalian
+global.botname = "Futube-Md" //namabot kalian
 global.ownername= "SabilTampanDanPemberani😎" //nama kalian
 global.myweb ="https://api.sabilofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/SabilOfc" //bebas asal jan hapus
@@ -40,7 +40,7 @@ global.ownernomerr = "6283112831554" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Siesta-Md' //sticker wm ubah
+global.packname = '© Futube-Md' //sticker wm ubah
 global.author = 'Di Buat Oleh SabilOfc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
